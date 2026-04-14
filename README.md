@@ -18,10 +18,6 @@ I am a Computer Science undergraduate student at Taras Shevchenko National Unive
   * Implemented secure user authentication and authorization pipelines utilizing JWT (JSON Web Tokens) to protect sensitive data.
   * Configured database schemas and optimized queries to ensure efficient data storage and rapid transaction processing.
 
-* **Arduino Interactive Safe**
-  * Developed a secure safe system using C++ and the Arduino IDE integrating 7 different modules.
-  * Implemented multi-layer protection requiring knowledge of system design, radio transmission, and light modules to unlock.
-
 ### 📫 How to reach me
 * **Email:** [soroka.dmytro.a@gmail.com](mailto:soroka.dmytro.a@gmail.com)
 * **LinkedIn:** [Dmytro Soroka](https://www.linkedin.com/in/dmytro-soroka-99a426305)
